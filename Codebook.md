@@ -11,8 +11,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 Data structure
 
 ## The variables 
-subject
-activity
+
+ subject
+
+ activity
+
 tbodyaccmeanx
 tbodyaccmeany
 tbodyaccmeanz
