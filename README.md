@@ -10,8 +10,8 @@ In this R script the following steps are taken subsequently:
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## [Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-This is the dataset used for the analysis.
+## [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+This is the dataset used for the analysis and can be found following the link.
 
 ## Codebook.md
 The Codebook modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
