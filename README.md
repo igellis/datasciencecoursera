@@ -3,7 +3,7 @@
 The files used for the analysis are the following:
 
 ## run_analysis.R
-In this R script the following steps are taken subsequently:
+In this R script can be found in this reposotory and within the file the following steps are taken subsequently:
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement. 
 * Uses descriptive activity names to name the activities in the data set
@@ -14,7 +14,7 @@ In this R script the following steps are taken subsequently:
 This is the dataset used for the analysis and can be found following the link.
 
 ## Codebook.md
-The Codebook modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+The Codebook can be found in this repository and it modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
 ## README.txt
-This README file explains the analysis filesn clear and understandable.
+This README file can be found in this repository and explains the analysis filesn clear and understandable.
