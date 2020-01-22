@@ -13,7 +13,6 @@ Data structure
 ## The variables 
 
  subject
-
  activity
 
 tbodyaccmeanx
